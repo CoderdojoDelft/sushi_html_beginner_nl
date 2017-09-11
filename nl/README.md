@@ -1,2 +1,4 @@
-1. You may not need to include a setup card, but here it is, in case it's useful to you!
-2. Normally, I would include instructions for the Ninja here, about anything they may need to sign-up for, configure, etc.
+Voordat we echt aan de slag kunnen, moeten we een omgeving hebben waarin we een website kunnen maken. Als je aan het werk bent, komt hij ook meteen online te staan!
+
+1. Ga naar [www.neocities.org](www.neocities.org) en vul je gegevens in onder 'Sign up for free'. Je hebt een e-mailadres nodig waarvan je de mail kunt bekijken. Soms wordt er een inlogcode naar je gemaild die je verderop in moet vullen.
+
