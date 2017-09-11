@@ -1,5 +1,5 @@
-# Summary
+# Inhoud
 
-* [Aan de slag!](README.md)
+* [Aan de slag!](aan-de-slag.md)
 * [Een website maken](een-website-maken.md)
 
