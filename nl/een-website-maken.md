@@ -1,2 +1,3 @@
-En hier komt dan het begin van de website etc.
+1. In de editor heb je het bestand `index.html` geopend.
 
+2.
