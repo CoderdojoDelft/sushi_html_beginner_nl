@@ -4,6 +4,13 @@
 
 3. Verander nu ook `<h1>` en `</h1>` in `<h2>` en `</h2>`. Klik op `Save` en refresh de pagina. Wat is er gebeurd?
 
-4. Als je tekst op een website wilt zetten, moet je dit plaatsen tussen twee tags. Deze tags vertellen de browser hoe die de tekst moet laten zien. De tag `<h1>` betekent bijvoorbeeld dat het een kop is, `<h2>` een sub-kop en `<p>` een paragraaf of een tekst.
-  * Een browser is een programma dat je gebruikt om websites te bekijken. Voorbeelden hiervan zijn Internet Explorer, Chrome en Firefox.
-  * `.html` aan het einde van de bestandsnaam vertelt de browser dat het bestand een website is. De browser zoekt dan naar de tags die vertellen wat te laten zien. HTML is de taal die een website maakt en staat voor HyperText Markup Language.
+4. Als je tekst op een website wilt zetten, moet je dit plaatsen tussen twee **tags**. Deze tags vertellen de browser hoe die de tekst moet laten zien. De tag `<h1>` betekent bijvoorbeeld dat het een **kop **is, `<h2>` een sub-kop en `<p>` een paragraaf of een tekst.
+  * Een **browser **is een programma dat je gebruikt om websites te bekijken. Voorbeelden hiervan zijn Internet Explorer, Chrome en Firefox.
+  * `.html` aan het einde van de bestandsnaam vertelt de browser dat het bestand een website is. De browser zoekt dan naar de tags die vertellen wat te laten zien. **HTML **is de taal die een website maakt en staat voor HyperText Markup Language.
+  
+5. Verander `<h2>` en `</h2>` weer terug in `<h1>` en `</h1>`.
+Waarom hebben we twee tags nodig? Er zijn een open- en een sluittag (opening en closing in het Engels) die de browser vertellen waar dingen beginnen en eindigen. Voor een kop `<h1>` betekent "hier komt test die ik moet laten zien als kop." De sluitende `</h1>` vertelt de browser dat de kop eindigt. Alles tussen de tags  `<body>` en `</body>` is je website.
+  *  Merk op dat een sluitende tage altijd aan slash, `/` heeft.
+  *  De tags delen de pagina op in verschillende delen, zoals paragrafen en koppen. The delen worden **elementen **genoemd. Het zijn de bouwblokken voor je site. 
+  
+6. 
