@@ -8,9 +8,9 @@
   * Een **browser **is een programma dat je gebruikt om websites te bekijken. Voorbeelden hiervan zijn Internet Explorer, Chrome en Firefox.
   * `.html` aan het einde van de bestandsnaam vertelt de browser dat het bestand een website is. De browser zoekt dan naar de tags die vertellen wat te laten zien. **HTML **is de taal die een website maakt en staat voor HyperText Markup Language.
   
-5. Verander `<h2>` en `</h2>` weer terug in `<h1>` en `</h1>`.
-Waarom hebben we twee tags nodig? Er zijn een open- en een sluittag (opening en closing in het Engels) die de browser vertellen waar dingen beginnen en eindigen. Voor een kop `<h1>` betekent "hier komt test die ik moet laten zien als kop." De sluitende `</h1>` vertelt de browser dat de kop eindigt. Alles tussen de tags  `<body>` en `</body>` is je website.
+5. Waarom hebben we twee tags nodig? Er zijn een open- en een sluittag (opening en closing in het Engels) die de browser vertellen waar dingen beginnen en eindigen. Voor een kop `<h1>` betekent "hier komt test die ik moet laten zien als kop." De sluitende `</h1>` vertelt de browser dat de kop eindigt. Alles tussen de tags  `<body>` en `</body>` is je website.
   *  Merk op dat een sluitende tage altijd aan slash, `/` heeft.
   *  De tags delen de pagina op in verschillende delen, zoals paragrafen en koppen. The delen worden **elementen **genoemd. Het zijn de bouwblokken voor je site. 
   
-6. 
+6.  Verander `<h2>` en `</h2>` weer terug in `<h1>` en `</h1>`.
+ 
