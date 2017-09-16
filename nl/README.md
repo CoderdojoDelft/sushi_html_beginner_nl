@@ -33,4 +33,4 @@ Voordat we echt aan de slag kunnen, moeten we een omgeving hebben waarin we een 
 
 ![](/assets/editor_site.png)
 
-13. Nu zijn we klaar om te beginnen!
+13. Nu zijn we klaar aan de slag te gaan!
