@@ -30,7 +30,6 @@ Voordat we echt aan de slag kunnen, moeten we een omgeving hebben waarin we een 
 11. Er wordt nu een pagina geopend met een editor. Hierin zie je wat er in index.html staat en je dit bestand veranderen.
 
 12. We zijn nu bijna klaar om te beginnen. Om handig te kunnen werken, zet je de tabbladen met de editor en je site naast elkaar. 
-
 ![](/assets/editor_site.png)
 
 13. Nu zijn we klaar aan de slag te gaan!
