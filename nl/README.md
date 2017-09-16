@@ -12,7 +12,7 @@ Voordat we echt aan de slag kunnen, moeten we een omgeving hebben waarin we een 
 3. Je hebt nu een account aangemaakt, zodat je altijd kunt inloggen en je website kunt aanpassen.
 
 4. Als je bent ingelogd, zie je aan de rechterkant van het scherm informatie over je site.
-![](../assets/your-site.png)
+![Local Image](../assets/your-site.png)
 
 5. Er is een eenvoudige website voor je gemaakt. Hierdoor hoef je niet met een helemaal lege pagina te beginnen. Als je klikt op de thumbnail (kleine afbeelding) van de website, wordt de website geopend. 
 
