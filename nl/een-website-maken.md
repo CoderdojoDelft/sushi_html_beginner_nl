@@ -24,3 +24,5 @@ Kun je in je pagina zien wat de tags `<strong> </strong>` en `<em> </em>` met de
 
 9. Een webpagina bestaat dus alleen uit tekst met tags die ervoor zorgen dat het er goed uitziet!
   * Je hebt de `p` tags voor paragrafen en `h` tags voor koppen (headings in het Engels). Probeer een paar andere koppen: verander het nummer en kijk wat er gebeurd met de grootte van de letters. Je kunt gaan van `<h1>` to `<h6>`. Je kunt ook de tekst veranderen tussen de `<p> </p>` tags of hiermee meer paragrafen toevoegen. 
+
+10. Zorg ervoor dat er sowieso een subkop tussen `<h2>` tags in je website staat. Daar gaan we later nog wat mee doen.
