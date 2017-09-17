@@ -4,9 +4,9 @@
 2. In het bestand staat het volgende:
 ```css
 body {
-  background-color: white;
-  color: black;
-  font-family: Verdana;
+    background-color: white;
+    color: black;
+    font-family: Verdana;
 }
 ```
 
@@ -24,9 +24,9 @@ Deze regel vertelt aan de browser om op zoek te gaan naar een bestand met de naa
 6. Open het `style.css` bestand weer in je editor en verander de tekst in de `body` selector:
 ```css
 body {
-  background-color: LightBlue;
-  color: purple;
-  font-family:  "Helvetica", sans-serif;
+    background-color: LightBlue;
+    color: purple;
+    font-family:  "Helvetica", sans-serif;
 }
 ```
 
@@ -36,15 +36,15 @@ body {
 8. Je kunt ook regels toevoegen om je koppen er anders uit te laten zien dan je paragrafen! Hiervoor gebruik je de `h1` selector. Voeg de volgende code toe aan `style.css`, onder de gekrulde haakjes.
 ```css
 h1 {
-  color: orange;
-  font-family: "Times New Roman", serif;
+    color: orange;
+    font-family: "Times New Roman", serif;
 }
 ```
 9. Save en herlaad de pagina. De kop is nu oranje, met daaronder de tekst in het paars.
-PLAATJE
+![](/assets/saved_styling.png)
 
-10. Is het je ook opgevallen dat de letters er anders uitzien (niet alleen een andere kleur)? Dit is omdat je ook de **font family** hebt veranderd. Je kunt meer lettertypen (fonts) zien op (https://www.w3schools.com/cssref/css_websafe_fonts.asp) [https://www.w3schools.com/cssref/css_websafe_fonts.asp]
+10. Is het je ook opgevallen dat de letters er anders uitzien (niet alleen een andere kleur)? Dit is omdat je ook de **font family** hebt veranderd. Je kunt meer lettertypen (fonts) zien op [https://www.w3schools.com/cssref/css_websafe_fonts.asp](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
 
 11. Probeer ook een verzameling regels toe te voegen voor `<h2>` koppen door gebruik te maken van de `h2` selector.
 
-12. Speel een beetje met verschillende kleurcombinaties voor de tekst en de achtergrond. Er zijn ontzettend veel kleuren die je kunt gebruiken. Een lijst me kleuren kun je hier vinden: (https://www.w3schools.com/cssref/css_colors.asp) [https://www.w3schools.com/cssref/css_colors.asp]
+12. Speel een beetje met verschillende kleurcombinaties voor de tekst en de achtergrond. Er zijn ontzettend veel kleuren die je kunt gebruiken. Een lijst me kleuren kun je hier vinden: [https://www.w3schools.com/cssref/css_colors.asp](https://www.w3schools.com/cssref/css_colors.asp)
