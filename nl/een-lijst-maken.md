@@ -15,9 +15,8 @@
   *  Verander de dingen op de lijst in dingen waarover je wilt vertellen op je website. Dit kan van alles zijn wat je leuk vindt! Je kunt extra dingen toevoegen door nieuwe regels met  `<li> </li>` te typen.
 
 4. Wat nu als je een genummerde lijst wilt maken? Dat gaat bijna netzo, alleen in plaats van `ul` gebruik je `ol`. Dit staat voor **ordered list**, opsomming. Voeg de volgende tekst toe onder de lijst me dingen waarover je website gaat.
-
 ```html
-    <p>Deze dingen heb ik tot nu toe geleerd die ik kan gebruiken op mijn website: </p>
+<p>Deze dingen heb ik tot nu toe geleerd die ik kan gebruiken op mijn website: </p> 
     
     <ol>
       <li>Koppen</li>
@@ -26,8 +25,7 @@
       <li>Lijsten!</li>
     </ol>
 ```
+5. Save en refresh je site. Die ziet er nu ongeveer zo uit:
 
-5. Save en refresh je site. Nu moet het er ongeveeer zou uitzien.
-
-PLAATJE
+![](../assets/lists.png)
 
