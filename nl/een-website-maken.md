@@ -13,4 +13,14 @@
   *  De tags delen de pagina op in verschillende delen, zoals paragrafen en koppen. The delen worden **elementen **genoemd. Het zijn de bouwblokken voor je site. 
   
 6.  Verander `<h2>` en `</h2>` weer terug in `<h1>` en `</h1>`.
- 
+
+7.  Zoek de `<title>` en `</title>` tags. Verander de tekst tussen deze tages in `De website van` en dan je naam. Klik op `Save` en herlaad (refresh) de pagina. Zie je wat er nu veranderd is? (Kijk eens naar de titel van het tabblad)
+
+8. Zoek de onderstaande code:
+```html
+<p>Here's how you can make <strong>bold</strong> and <em>italic</em> text.</p>
+```
+Kun je in je pagina zien wat de tags `<strong> </strong>` en `<em> </em>` met de tekst doen? Merk op: `em` staat voor "emphasis" en betekent benadrukken.
+
+9. Een webpagina bestaat dus alleen uit tekst met tags die ervoor zorgen dat het er goed uitziet!
+  * Je hebt de `p` tags voor paragrafen en `h` tags voor koppen (headings in het Engels). Probeer een paar andere koppen: verander het nummer en kijk wat er gebeurd met de grootte van de letters. Je kunt gaan van `<h1>` to `<h6>`. Je kunt ook de tekst veranderen tussen de `<p> </p>` tags of hiermee meer paragrafen toevoegen. 
