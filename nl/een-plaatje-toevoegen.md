@@ -13,5 +13,12 @@
     <p>Here's how you can add an image:</p>
     <img src="/neocities.png">
 ```
-Dit is waar Neocities het plaatje heeft neergezet en die gaan we vervangenen
-> Merk op dat de 
+Dit is waar Neocities het plaatje heeft neergezet en die gaan we vervangenen door jouw plaatje
+
+6. Verander de tag met het plaatje (in plaatje van JOUW_PLAATJE type je de naam van jouw plaatje):
+```html
+     <img src="/JOUW_PLAATJE">
+```
+> Merk op dat de `<img>` tag anders is dan de tags die we tot nu toe hadden gebruikt:
+> * Er is geen sluitende `</img>` tag. Deze tag is **zelf-sluitend**: de openende tag eindigt met `/>`. Dit is omdat er geen 'begin' en 'einde' zijn, zoals wanneer je bijvoorbeeld een paragraaf typt.
+> * De tag 
