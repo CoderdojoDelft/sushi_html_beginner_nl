@@ -29,7 +29,7 @@
     </ol>
    ```
 
-5. Save en refresh je site. Die ziet er nu ongeveer zo uit:
+5. Save en refresh je site. Lijkt die van jou hierop?
 
 ![](../assets/lists.png)
 
