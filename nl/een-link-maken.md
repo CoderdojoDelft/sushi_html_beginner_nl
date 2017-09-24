@@ -14,11 +14,11 @@
 ```
 3. Sla op en refresh je website. Je kunt nu naar je nieuwe pagina's gaan!
 
-4.Links naar andere websites zien er net zo uit. Type de code voor een nieuwe link die je wilt toevoegen, waarbij je nog niets invult voor **href**.
+4. Links naar andere websites zien er net zo uit. Type de code voor een nieuwe link die je wilt toevoegen, waarbij je nog niets invult voor **href**.
 ```html
-<p>
-  Via <a href="">CoderDojo Delft </a> heb ik geleerd hoe je een website maakt.
-</p>
+  <p>
+    Via <a href="">CoderDojo Delft </a> heb ik geleerd hoe je een website maakt.
+  </p>
 ```
 5. Ga naar de website waarvan je link wilt maken.
 
