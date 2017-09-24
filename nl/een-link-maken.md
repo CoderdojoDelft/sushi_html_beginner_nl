@@ -20,7 +20,20 @@
     Via <a href="">CoderDojo Delft </a> heb ik geleerd hoe je een website maakt.
 </p>
 ```
-5. Ga naar de website waarvan je link wilt maken.
 
+5. Ga naar de website waar naartoe je een link wilt maken. Klik in de adresbalk en selecteer de hele tekst. Dit is het hele adres van de pagina waar je bent. Druk tegelijk **Ctrl** en **C** in om deze tekst te **kopiëren**.
+![](/assets/addressbar.png)
 
+6. Ga nu terug naar je code. Klik tussen de aanhalingstekens en **plak** het adres hier door **Ctrl** en **V** tegelijk in te drukken. Save en refresh en probeer de link!
+
+7. Net als alle andere tekst, kun je een link een andere kleur geven in je stylesheet. Open het bestand `style.css` en voeg onderstaande verzameling regels toe. Kies zelf een leuke kleur! 
+```css
+a {
+    color: green;
+}
+```
+> Merk op dat de selector voor links `a` is.
+
+8. Save en refresh je pagina. Lijkt jouw pagina hier op?
+![](/assets/page_links.png)
 
