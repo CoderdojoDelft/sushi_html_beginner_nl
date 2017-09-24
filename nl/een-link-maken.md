@@ -16,9 +16,9 @@
 
 4. Links naar andere websites zien er net zo uit. Type de code voor een nieuwe link die je wilt toevoegen, waarbij je nog niets invult voor **href**.
 ```html
-  <p>
+<p>
     Via <a href="">CoderDojo Delft </a> heb ik geleerd hoe je een website maakt.
-  </p>
+</p>
 ```
 5. Ga naar de website waarvan je link wilt maken.
 
