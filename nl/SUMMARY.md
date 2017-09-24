@@ -11,5 +11,6 @@
 * [Een menu maken](een-menu-maken.md)
 * [Je menu opmaken](je-menu-opmaken.md)
 * [Een kaart of video toevoegen](een-kaart-of-video-toevoegen.md)
+* [Een tabel toevoegen](een-tabel-toevoegen.md)
 * [Je project downloaden](je-project-downloaden.md)
 
