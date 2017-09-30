@@ -8,3 +8,7 @@
 4. Ga nu naar de code van je website. Ga naar de plek waar je het filpmje wilt toevoegen, bijvoorbeeld na een kop of een paragraaf. Plak de code hier met `Ctrl` + `V`. De tekst die je er nu in plakt, begrijp je misschien niet helemaal, maar dat geeft niet.
 ![](/assets/youtube2.png)
 
+5. Slag je pagina op en refresh je website. Je kunt nu het filmpje bekijken!
+
+6. Hetzelfde kun je ook doen met Google maps. Laten we dat een proberen. Ga naar [http://maps.google.com](http://maps.google.com)
+
