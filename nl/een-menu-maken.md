@@ -31,7 +31,7 @@ nav ul li {
 
 6. Wat vind je ervan om het menu zo te veranderen zodat je kunt zien op welke pagina je bent? Dit doen we niet in de stylesheet.
 
-7. Laten we beginnen met de homepage. Open `index.html` in de editor. Verwijder de link en de tags rond het woord "Home", zodat het item in de lijst alleen nog een tekst is tussen `<li> </li> ` tags: `<li>Home</li>.
+7. Laten we beginnen met de homepage. Open `index.html` in de editor. Verwijder de link en de tags rond het woord "Home", zodat het item in de lijst alleen nog een tekst is tussen `<li> </li> ` tags: `<li>Home</li>`.
 
 8. Open nu één voor één je andere bestanden en doe hetzelfde: verwijder de link tags van de pagina die je aan het veranderen bent. Bijvoorbeeld voor een pagina over het maken van websites, verwijder de link zoals hieronder, enzovoort.
 ![](/assets/no_link_to_itself.png)
