@@ -11,8 +11,9 @@
 5. Slag je pagina op en refresh je website. Je kunt nu het filmpje bekijken!
 
 6. Hetzelfde kun je ook doen met Google maps. Laten we dat een proberen. Ga naar [https://www.google.nl/maps](https://www.google.nl/maps). Ga op zoek naar de plaats die je wilt laten zien. Klik op de knop `Delen`. In het pop-up menu, klik je op `Kaart insluiten`.
+![](/assets/googlemaps.png)
 
 7. Kopieer de code en plak die in je website.
 
-8. 
-
+8. Als je goed kijk in de tekst die je net geplakt hebt, zie je daar de attributen `width` (breedte) en `height` (hoogte). Door deze getallen te veranderen, kun je kaart groter of kleiner maken.
+![](/assets/googlemaps2.png)
