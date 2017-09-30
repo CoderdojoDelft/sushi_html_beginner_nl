@@ -17,3 +17,20 @@ nav ul li {
 }
 ```
 > Merk op dat deze verzameling regels **drie** selectors heeft. Deze regels gelden voor alle `li` elementen in een `ul` lijst binnen een `nav` sectie. Pffff!
+
+5. Laten we er een horizontale lijst (naast elkaar) in plaats van een verticale lijst (onder elkaar) van maken. Doe dit door de regel `display: inline;` toe te voegen aan de verzameling regels. Voeg ook de eigenschappen `margin-right`en `margin-left` toe zodat er wat ruimte is tussen de verschillende items in het menu. Zien jouw regels er nu ook zo uit?
+```css
+nav ul li {
+     list-style-type: none;
+     display: inline;
+     margin-right: 10px;
+     margin-left: 10px;
+}
+```
+> Wist je nog dat `10px` 10 pixels betekent?
+
+6. Wat vind je ervan om het menu zo te veranderen zodat je kunt zien op welke pagina je bent? Dit doen we niet in de stylesheet.
+
+7. Laten we beginnen met de homepage. Open `index.html` in de editor. Verwijder de link en de tags rond het woord "Home", zodat het item in de lijst alleen nog een tekst is tussen `<li> </li> ` tags: `<li>Home</li>.
+
+8. Open nu één voor één je andere bestanden en doe hetzelfde: verwijder de link tags van de pagina die je aan het veranderen bent. Bijvoorbeeld voor een pagina over het maken van websites, verwijder de link zoals hieronder, enzovoort.
