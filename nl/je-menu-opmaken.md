@@ -23,3 +23,4 @@ Met CSS zijn de mogelijkheden om je menu er fantastisch uit te laten zien eindel
  }
 ```
 > Je kunt de regel overal neerzetten, maar het handig om regels die met elkaar te maken bij elkaar in de buurt te zetten, zodat je ze gemakkelijk terug kunt vinden.
+
