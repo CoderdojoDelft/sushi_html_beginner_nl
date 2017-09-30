@@ -16,4 +16,10 @@ Met CSS zijn de mogelijkheden om je menu er fantastisch uit te laten zien eindel
  > De eigenschap `padding` voegt wat extra ruimte toe. Kun je bedenken wat de andere eigenschappen doen ('border' betekent lijst, zoals om een schilderij).
 2. Experimenteer met verschillende kleuren en verschillende hoeveelheden pixels.
 
- 
+3. Dat de links onderstreept zijn, is eigenlijk ook niet zo mooi. Deze kun je laten verdwijnen door de volgende regels toe te voegen na de regels voor `nav ul li`.
+```css
+ nav ul li a {
+    text-decoration: none;
+ }
+```
+> Je kunt de regel overal neerzetten, maar het handig om regels die met elkaar te maken bij elkaar in de buurt te zetten, zodat je ze gemakkelijk terug kunt vinden.
