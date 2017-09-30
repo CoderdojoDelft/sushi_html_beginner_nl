@@ -31,5 +31,5 @@ Kies een kleur die je mooi vindt!
 5. Zullen we ronde hoeken maken? Voeg de volgende regel toe aan de `nav ul` regels en kijk wat er gebeurt: `border-radius: 10px;`
 > De eigenschap `border-radius` is een makkelijke manier om alles er cooler uit te laten zien! Als een extra uitdaging voeg een nieuwe regel toe aan je stylesheet voor plaatjes. Hiervoor gebruik je de `img` selector. Voeg hieraan eens een `border-radius` regel toe.
 
-6. Zien jouw stylesheet en webpagina er nu ook ongeveer zo uit?
-
+6. Onze stylesheet en pagina zien er nu zo uit. En die van jou?
+![](/assets/navbar.png)
