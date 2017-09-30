@@ -2,7 +2,7 @@ Met CSS zijn de mogelijkheden om je menu er fantastisch uit te laten zien eindel
 
 1. Zoek je `nav ul` selector op en voeg nog een aantal regels toe, zodat het er zo uit ziet:
 ```css
-  nav ul {
+ nav ul {
      list-style-type: none;
      display: inline;
      margin-right: 10px;
@@ -23,4 +23,11 @@ Met CSS zijn de mogelijkheden om je menu er fantastisch uit te laten zien eindel
  }
 ```
 > Je kunt de regel overal neerzetten, maar het handig om regels die met elkaar te maken bij elkaar in de buurt te zetten, zodat je ze gemakkelijk terug kunt vinden.
+> Deze regel geldt nu voor *links* (`<a>` tags) in *list items* in een *willekeurige lijst* in de *navigatie* (`nav`) selectie. Wauw!
+
+4. Zoek nu je `nav ul li` selector op en voeg de volgende regel toe tussen de gekrulde haken:
+```css
+   color:PapayaWhip;
+```
+Kies een kleur die je mooi vindt!
 
