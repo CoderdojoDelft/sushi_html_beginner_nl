@@ -10,4 +10,10 @@ nav ul {
 
 3. Sla op, herlaad je pagina en kijk hoe het eruit ziet.
  
-4.  
+4. De bolletjes voor elk item in je lijst zijn niet zo mooi in een menu. Die gaan we laten verdwijnen. Open weer `style.css` en voeg het volgende toe onderaan het bestand. Doe dit weer een op een nieuwe regel, zodat het niet per ongeluk in een andere verzameling regels terecht komt.
+```css
+nav ul li {
+    list-style-type: none;
+}
+```
+> Merk op dat deze verzameling regels **drie** selectors heeft. Deze regels gelden voor alle `li` elementen in een `ul` lijst binnen een `nav` sectie. Pffff!
