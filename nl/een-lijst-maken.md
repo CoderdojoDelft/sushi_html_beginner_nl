@@ -11,7 +11,8 @@
    ```
 
 2. Kijk eens naar je website en zoek dezelfde tekst. Zie je hoe van deze tekst een mooie lijst is gemaakt?
-> De hele lijst staat tussen de tags `<ul> </ul>`. Die zorgen ervoor dat de lijst er goed uitziet. "ul" staat voor **unordered list**, willekeurige lijst. Alle dingen in de lijst moeten tussen `<li> </li>` tags staan. "li" staat voor **list item**, item op je lijst.
+
+   > De hele lijst staat tussen de tags `<ul> </ul>`. Die zorgen ervoor dat de lijst er goed uitziet. "ul" staat voor **unordered list**, willekeurige lijst. Alle dingen in de lijst moeten tussen `<li> </li>` tags staan. "li" staat voor **list item**, item op je lijst.
 
 3. Verander de dingen op de lijst in dingen waarover je wilt vertellen op je website. Dit kan van alles zijn wat je leuk vindt! Je kunt extra dingen toevoegen door nieuwe regels met  `<li> </li>` te typen.
 
@@ -31,4 +32,11 @@
 5. Save en refresh je site. Lijkt die van jou hierop?
 
 ![](../assets/lists.png)
+
+
+
+  
+
+
+![](/assets/badges/thumbs/01_live.png) ![](/assets/badges/thumbs/06_style.png) ![](/assets/badges/thumbs/04_li.png) 
 

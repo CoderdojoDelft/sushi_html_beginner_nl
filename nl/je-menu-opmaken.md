@@ -1,35 +1,49 @@
-Met CSS zijn de mogelijkheden om je menu er fantastisch uit te laten zien eindeloos. Open `style.css` weer in de editor (dit is de plek waar het gebeurt!). Sla het bestand elke keer als je iets verandert, op en herlaad je website.
+Met CSS zijn de mogelijkheden om je menu er fantastisch uit te laten zien eindeloos. Open `style.css` weer in de editor \(dit is de plek waar het gebeurt!\). Sla het bestand elke keer als je iets verandert, op en herlaad je website.
 
 1. Zoek je `nav ul` selector op en voeg nog een aantal regels toe, zodat het er zo uit ziet:
-```css
- nav ul {
+   ```css
+   nav ul {
      background-color: tomato;
      border-style: solid;
      border-color: MediumVioletRed;
      border-width: 2px;
      padding: 10px; 
- }
- ```
- > De eigenschap `padding` voegt wat extra ruimte toe. Kun je bedenken wat de andere eigenschappen doen ('border' betekent lijst, zoals om een schilderij).
+   }
+   ```
+
+   > De eigenschap `padding` voegt wat extra ruimte toe. Kun je bedenken wat de andere eigenschappen doen \('border' betekent lijst, zoals om een schilderij\).
 2. Experimenteer met verschillende kleuren en verschillende hoeveelheden pixels.
 
 3. Dat de links onderstreept zijn, is eigenlijk ook niet zo mooi. Deze kun je laten verdwijnen door de volgende regels toe te voegen na de regels voor `nav ul li`.
-```css
- nav ul li a {
+
+   ```css
+   nav ul li a {
     text-decoration: none;
- }
-```
-> Je kunt de regel overal neerzetten, maar het handig om regels die met elkaar te maken bij elkaar in de buurt te zetten, zodat je ze gemakkelijk terug kunt vinden.
-> Deze regel geldt nu voor *links* (`<a>` tags) in *list items* in een *willekeurige lijst* in de *navigatie* (`nav`) selectie. Wauw!
+   }
+   ```
+
+   > Je kunt de regel overal neerzetten, maar het handig om regels die met elkaar te maken bij elkaar in de buurt te zetten, zodat je ze gemakkelijk terug kunt vinden.  
+   > Deze regel geldt nu voor _links_ \(`<a>` tags\) in _list items_ in een _willekeurige lijst_ in de _navigatie_ \(`nav`\) selectie. Wauw!
 
 4. Zoek nu je `nav ul li` selector op en voeg de volgende regel toe tussen de gekrulde haken:
-```css
+
+   ```css
    color:PapayaWhip;
-```
-Kies een kleur die je mooi vindt!
+   ```
+
+   Kies een kleur die je mooi vindt!
 
 5. Zullen we ronde hoeken maken? Voeg de volgende regel toe aan de `nav ul` regels en kijk wat er gebeurt: `border-radius: 10px;`
-> De eigenschap `border-radius` is een makkelijke manier om alles er cooler uit te laten zien! Als een extra uitdaging voeg een nieuwe regel toe aan je stylesheet voor plaatjes. Hiervoor gebruik je de `img` selector. Voeg hieraan eens een `border-radius` regel toe.
 
-6. Onze stylesheet en pagina zien er nu zo uit. En die van jou?
-![](/assets/navbar.png)
+   > De eigenschap `border-radius` is een makkelijke manier om alles er cooler uit te laten zien! Als een extra uitdaging voeg een nieuwe regel toe aan je stylesheet voor plaatjes. Hiervoor gebruik je de `img` selector. Voeg hieraan eens een `border-radius` regel toe.
+
+6. Onze stylesheet en pagina zien er nu zo uit. En die van jou?  
+   ![](/assets/navbar.png)
+
+  
+
+
+![](blob:https://www.gitbook.com/7fba1a8b-6643-4498-a29d-97a911938046)![](blob:https://www.gitbook.com/ba0c5f39-c254-4ffa-9582-6e53374b5c23)![](blob:https://www.gitbook.com/24c16d20-2ec2-4712-8836-aaba321ff050)![](blob:https://www.gitbook.com/e119b2cb-5b2e-444b-8091-237f198b5717)![](blob:https://www.gitbook.com/84610e1e-f61e-4cb8-8a29-2721c1c4f467)![](blob:https://www.gitbook.com/7e111088-ceb6-43cb-bf73-871ef89029cb)![](blob:https://www.gitbook.com/d85a6b65-a208-4a71-8ff2-c1794e4f401b)
+
+
+

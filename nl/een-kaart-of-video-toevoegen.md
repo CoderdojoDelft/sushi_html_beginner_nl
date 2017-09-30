@@ -1,19 +1,26 @@
-1. We gaan een filmpje toevoegen! YouTube heeft een gemakkelijke manier om een filmpje op je pagina te zetten (**embed** in het Engels). Zoek een filmpje op YouTube dat je graag op je site wilt laten zien.
+1. We gaan een filmpje toevoegen! YouTube heeft een gemakkelijke manier om een filmpje op je pagina te zetten \(**embed** in het Engels\). Zoek een filmpje op YouTube dat je graag op je site wilt laten zien.
 
-2. Klik op `Share` onder de video en dan op `EMBED` in de pop-up.
-![](/assets/youtube1.png)
+2. Klik op `Share` onder de video en dan op `EMBED` in de pop-up.  
+   ![](/assets/youtube1.png)
 
-3. Je ziet nu een venster met het filmpje, een paar opties die je kunt aanpassen (doen we nu even niet) en rechtsonder de knop `Copy`. Klik hierop om de tekst te kopiëren.
+3. Je ziet nu een venster met het filmpje, een paar opties die je kunt aanpassen \(doen we nu even niet\) en rechtsonder de knop `Copy`. Klik hierop om de tekst te kopiëren.
 
-4. Ga nu naar de code van je website. Ga naar de plek waar je het filpmje wilt toevoegen, bijvoorbeeld na een kop of een paragraaf. Plak de code hier met `Ctrl` + `V`. De tekst die je er nu in plakt, begrijp je misschien niet helemaal, maar dat geeft niet.
-![](/assets/youtube2.png)
+4. Ga nu naar de code van je website. Ga naar de plek waar je het filpmje wilt toevoegen, bijvoorbeeld na een kop of een paragraaf. Plak de code hier met `Ctrl` + `V`. De tekst die je er nu in plakt, begrijp je misschien niet helemaal, maar dat geeft niet.  
+   ![](/assets/youtube2.png)
 
 5. Slag je pagina op en refresh je website. Je kunt nu het filmpje bekijken!
 
-6. Hetzelfde kun je ook doen met Google maps. Laten we dat een proberen. Ga naar [https://www.google.nl/maps](https://www.google.nl/maps). Ga op zoek naar de plaats die je wilt laten zien. Klik op de knop `Delen`. In het pop-up menu, klik je op `Kaart insluiten`.
-![](/assets/googlemaps.png)
+6. Hetzelfde kun je ook doen met Google maps. Laten we dat een proberen. Ga naar [https://www.google.nl/maps](https://www.google.nl/maps). Ga op zoek naar de plaats die je wilt laten zien. Klik op de knop `Delen`. In het pop-up menu, klik je op `Kaart insluiten`.  
+   ![](/assets/googlemaps.png)
 
 7. Kopieer de code en plak die in je website.
 
-8. Als je goed kijk in de tekst die je net geplakt hebt, zie je daar de attributen `width` (breedte) en `height` (hoogte). Door deze getallen te veranderen, kun je kaart groter of kleiner maken.
-![](/assets/googlemaps2.png)
+8. Als je goed kijk in de tekst die je net geplakt hebt, zie je daar de attributen `width` \(breedte\) en `height` \(hoogte\). Door deze getallen te veranderen, kun je kaart groter of kleiner maken.  
+   ![](/assets/googlemaps2.png)
+
+  
+![](blob:https://www.gitbook.com/7fba1a8b-6643-4498-a29d-97a911938046)![](blob:https://www.gitbook.com/ba0c5f39-c254-4ffa-9582-6e53374b5c23)![](blob:https://www.gitbook.com/24c16d20-2ec2-4712-8836-aaba321ff050)![](blob:https://www.gitbook.com/e119b2cb-5b2e-444b-8091-237f198b5717)![](blob:https://www.gitbook.com/84610e1e-f61e-4cb8-8a29-2721c1c4f467)![](blob:https://www.gitbook.com/7e111088-ceb6-43cb-bf73-871ef89029cb)![](blob:https://www.gitbook.com/d85a6b65-a208-4a71-8ff2-c1794e4f401b) 
+
+  
+
+
