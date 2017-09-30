@@ -9,7 +9,7 @@
       <li><a href="index.html">Home</a></li>
       <li><a href="websites.html">Websites maken</a></li>
       <li><a href="badminton.html">Badminton</a></li>
-      <li><a href="python">Spelletjes programmeren in Python</a></li>
+      <li><a href="python.html">Spelletjes programmeren in Python</a></li>
     </ul>
 ```
 3. Sla op en refresh je website. Je kunt nu naar je nieuwe pagina's gaan!
