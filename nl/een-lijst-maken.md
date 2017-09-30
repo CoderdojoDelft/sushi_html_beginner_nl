@@ -11,10 +11,9 @@
    ```
 
 2. Kijk eens naar je website en zoek dezelfde tekst. Zie je hoe van deze tekst een mooie lijst is gemaakt?
+> De hele lijst staat tussen de tags `<ul> </ul>`. Die zorgen ervoor dat de lijst er goed uitziet. "ul" staat voor **unordered list**, willekeurige lijst. Alle dingen in de lijst moeten tussen `<li> </li>` tags staan. "li" staat voor **list item**, item op je lijst.
 
-3. De hele lijst staat tussen de tags `<ul> </ul>`. Die zorgen ervoor dat de lijst er goed uitziet. "ul" staat voor **unordered list**, willekeurige lijst. Alle dingen in de lijst moeten tussen `<li> </li>` tags staan. "li" staat voor **list item**, item op je lijst.
-
-   * Verander de dingen op de lijst in dingen waarover je wilt vertellen op je website. Dit kan van alles zijn wat je leuk vindt! Je kunt extra dingen toevoegen door nieuwe regels met  `<li> </li>` te typen.
+3. Verander de dingen op de lijst in dingen waarover je wilt vertellen op je website. Dit kan van alles zijn wat je leuk vindt! Je kunt extra dingen toevoegen door nieuwe regels met  `<li> </li>` te typen.
 
 4. Wat nu als je een genummerde lijst wilt maken? Dat gaat bijna net zo, alleen in plaats van `ul` gebruik je `ol`. Dit staat voor **ordered list**, opsomming. Voeg de volgende tekst toe onder de lijst met dingen waarover je website gaat.
 
