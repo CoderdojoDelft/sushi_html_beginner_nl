@@ -52,6 +52,7 @@ td {
       color: purple;
 }
 ```
+| Merk op dat er bij sommige selectors **komma's** worden gebruikt, zoals bijvoorbeeld bij `table, th, td`. Dit is een *lijst met selectors*: dit betekent dat *alle*  `<th>` elementen *en alle* `<td>` elementen. Het scheelt een boel typen als je dezelfde regels kunt gebruiken voor meerdere selectors. 
 
 Onze tabel ziet er nu zo uit:
 ![](/assets/tabel2.png)
