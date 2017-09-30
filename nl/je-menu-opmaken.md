@@ -3,15 +3,12 @@ Met CSS zijn de mogelijkheden om je menu er fantastisch uit te laten zien eindel
 1. Zoek je `nav ul` selector op en voeg nog een aantal regels toe, zodat het er zo uit ziet:
 ```css
  nav ul {
-     list-style-type: none;
-     display: inline;
-     margin-right: 10px;
-     margin-left: 10px;
      background-color: tomato;
      border-style: solid;
      border-color: MediumVioletRed;
      border-width: 2px;
-     padding: 10px;   }
+     padding: 10px; 
+ }
  ```
  > De eigenschap `padding` voegt wat extra ruimte toe. Kun je bedenken wat de andere eigenschappen doen ('border' betekent lijst, zoals om een schilderij).
 2. Experimenteer met verschillende kleuren en verschillende hoeveelheden pixels.
@@ -30,4 +27,9 @@ Met CSS zijn de mogelijkheden om je menu er fantastisch uit te laten zien eindel
    color:PapayaWhip;
 ```
 Kies een kleur die je mooi vindt!
+
+5. Zullen we ronde hoeken maken? Voeg de volgende regel toe aan de `nav ul` regels en kijk wat er gebeurt: `border-radius: 10px;`
+> De eigenschap `border-radius` is een makkelijke manier om alles er cooler uit te laten zien! Als een extra uitdaging voeg een nieuwe regel toe aan je stylesheet voor plaatjes. Hiervoor gebruik je de `img` selector. Voeg hieraan eens een `border-radius` regel toe.
+
+6. Zien jouw stylesheet en webpagina er nu ook ongeveer zo uit?
 
