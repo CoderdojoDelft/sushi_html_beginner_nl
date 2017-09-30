@@ -34,3 +34,6 @@ nav ul li {
 7. Laten we beginnen met de homepage. Open `index.html` in de editor. Verwijder de link en de tags rond het woord "Home", zodat het item in de lijst alleen nog een tekst is tussen `<li> </li> ` tags: `<li>Home</li>.
 
 8. Open nu één voor één je andere bestanden en doe hetzelfde: verwijder de link tags van de pagina die je aan het veranderen bent. Bijvoorbeeld voor een pagina over het maken van websites, verwijder de link zoals hieronder, enzovoort.
+![](/assets/no_link_to_itself.png)
+
+9. Sla al je pagina's op en kijk eens hoe het eruit ziet. Zie je hoe de naam van de pagina waarop je bent nu gewone tekst is in plaats van een link?
