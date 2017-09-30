@@ -10,5 +10,9 @@
 
 5. Slag je pagina op en refresh je website. Je kunt nu het filmpje bekijken!
 
-6. Hetzelfde kun je ook doen met Google maps. Laten we dat een proberen. Ga naar [http://maps.google.com](http://maps.google.com)
+6. Hetzelfde kun je ook doen met Google maps. Laten we dat een proberen. Ga naar [https://www.google.nl/maps](https://www.google.nl/maps). Ga op zoek naar de plaats die je wilt laten zien. Klik op de knop `Delen`. In het pop-up menu, klik je op `Kaart insluiten`.
+
+7. Kopieer de code en plak die in je website.
+
+8. 
 
