@@ -53,7 +53,8 @@ td {
 }
 ```
 
-Onze tabel ziet er nu zo uit
+Onze tabel ziet er nu zo uit:
+![](/assets/tabel2.png)
 
 
 
