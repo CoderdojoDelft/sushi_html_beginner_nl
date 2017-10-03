@@ -37,3 +37,5 @@ Voordat we echt aan de slag kunnen, moeten we een omgeving hebben waarin we een 
 
 
 
+![](/assets/badges/thumbs/01_live.png)
+
