@@ -59,7 +59,5 @@
 
 
 
-![](blob:https://www.gitbook.com/ecdc393d-36d6-49ff-8d4f-9c08f078f496) ![](/assets/badges/thumbs/06_style.png) 
-
-
+![](blob:https://www.gitbook.com/14031587-3596-4af7-9fea-ad1ad88fdace)![](/assets/badges/thumbs/06_style.png)
 

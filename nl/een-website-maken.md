@@ -29,9 +29,7 @@
    > Een webpagina bestaat dus alleen uit tekst met tags die ervoor zorgen dat het er goed uitziet!  
    > Je hebt de `p` tags voor paragrafen en `h` tags voor koppen \(headings in het Engels\). Probeer een paar andere koppen: verander het nummer en kijk wat er gebeurd met de grootte van de letters. Je kunt gaan van `<h1>` to `<h6>`. Je kunt ook de tekst veranderen tussen de `<p> </p>` tags of hiermee meer paragrafen toevoegen.
 
-9. Zorg ervoor dat er sowieso een subkop tussen `<h2>` tags in je website staat. Daar gaan we later nog wat mee doen.
+9. Zorg ervoor dat er sowieso een subkop tussen `<h2>` tags in je website staat. Daar gaan we later nog wat mee doen.  
 
-
-
-![](blob:https://www.gitbook.com/ecdc393d-36d6-49ff-8d4f-9c08f078f496)
+![](blob:https://www.gitbook.com/14031587-3596-4af7-9fea-ad1ad88fdace)
 
