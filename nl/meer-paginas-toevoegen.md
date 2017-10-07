@@ -17,8 +17,11 @@
 
   
 
-
-![](blob:https://www.gitbook.com/7fba1a8b-6643-4498-a29d-97a911938046)![](blob:https://www.gitbook.com/ba0c5f39-c254-4ffa-9582-6e53374b5c23)![](blob:https://www.gitbook.com/24c16d20-2ec2-4712-8836-aaba321ff050)![](blob:https://www.gitbook.com/e119b2cb-5b2e-444b-8091-237f198b5717) ![](/assets/badges/thumbs/05_pages.png)
+![](../assets/badges/thumbs/01_live.png) 
+![](../assets/badges/thumbs/06_style.png)
+![](../assets/badges/thumbs/04_li.png) 
+![](../assets/badges/thumbs/03_img.png) 
+![](../assets/badges/thumbs/05_pages.png)
 
 
 

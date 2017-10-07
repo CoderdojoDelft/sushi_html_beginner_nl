@@ -59,5 +59,6 @@
 
 
 
-![](blob:https://www.gitbook.com/14031587-3596-4af7-9fea-ad1ad88fdace)![](/assets/badges/thumbs/06_style.png)
+![](../assets/badges/thumbs/01_live.png) 
+![](../assets/badges/thumbs/06_style.png)
 

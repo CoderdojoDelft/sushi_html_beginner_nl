@@ -31,5 +31,6 @@
 
 9. Zorg ervoor dat er sowieso een subkop tussen `<h2>` tags in je website staat. Daar gaan we later nog wat mee doen.  
 
-![](blob:https://www.gitbook.com/14031587-3596-4af7-9fea-ad1ad88fdace)
+![](../assets/badges/thumbs/01_live.png) 
+![](../assets/badges/thumbs/06_style.png)
 

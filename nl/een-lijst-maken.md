@@ -35,8 +35,8 @@
 
 
 
-  
 
-
-![](/assets/badges/thumbs/01_live.png) ![](/assets/badges/thumbs/06_style.png) ![](/assets/badges/thumbs/04_li.png) 
+![](../assets/badges/thumbs/01_live.png) 
+![](../assets/badges/thumbs/06_style.png)
+![](../assets/badges/thumbs/04_li.png) 
 
