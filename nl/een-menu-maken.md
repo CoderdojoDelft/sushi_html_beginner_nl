@@ -44,6 +44,7 @@
 
 9. Sla al je pagina's op en kijk eens hoe het eruit ziet. Zie je hoe de naam van de pagina waarop je bent nu gewone tekst is in plaats van een link?
 
+
 ![](../assets/badges/thumbs/01_live.png) 
 ![](../assets/badges/thumbs/06_style.png)
 ![](../assets/badges/thumbs/04_li.png) 
