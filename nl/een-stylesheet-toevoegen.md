@@ -49,7 +49,7 @@
    ```
 
 8. Save en herlaad de pagina. Ziet jouw site er nu ook zo uit?  
-   ![](/assets/saved_styling.png)
+   ![](../assets/saved_styling.png)
 
    > Is het je ook opgevallen dat de letters er anders uitzien \(niet alleen een andere kleur\)? Dit is omdat je ook de **font family** hebt veranderd. Je kunt meer lettertypen \(fonts\) zien op [https://www.w3schools.com/cssref/css\_websafe\_fonts.asp](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
 

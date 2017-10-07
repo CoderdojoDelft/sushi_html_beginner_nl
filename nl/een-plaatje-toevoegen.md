@@ -7,7 +7,7 @@
 3. Ga naar het dashboard van Neocities. Daar zie je knop met `Upload`. Klik daarop, zoek het plaatje voor je site en open het. Je ziet nu het plaatje in de lijst met bestanden staan.
 
 4. Onthoud of kopieer de naam van je plaatje, want die hebben we zo nodig.  
-   ![](/assets/plaatje_dashboard.png)
+   ![](../assets/plaatje_dashboard.png)
 
 5. Ga nu weer naar `index.html` in de editor. Zoek daar de tekst:
 

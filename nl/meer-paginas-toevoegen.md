@@ -1,7 +1,7 @@
 1. Je hebt nu vast al bedacht wat je graag wilt laten zien op je website. Laten we hier nieuwe pagina's voor maken! Om een nieuwe pagina toe te voegen, moet je een nieuwe bestand aanmaken dat eindigt met **.html**.
 
 2. Ga naar het dashboard van Neocities. Klik daar op `New File`. Geef het bestand een naam. Vergeet niet dat het moet eindigen op **.html**. Dan weet de browser dat het een webpagina is.  
-   ![](/assets/new_file.png)
+   ![](../assets/new_file.png)
 
    > De eerste pagina die je gemaakt hebt, heet `index.html`. Dit kun je niet veranderen, het is de speciale naam die wordt gebruikt voor de **homepage** van een website. Dat is de eerste pagina die geopend wordt als je naar een website gaat. Als je naar een website gaat, gaat de browser op zoek naar het bestand `index.html` en laat die zien.
 

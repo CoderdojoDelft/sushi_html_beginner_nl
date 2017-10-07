@@ -38,7 +38,7 @@ Met CSS zijn de mogelijkheden om je menu er fantastisch uit te laten zien eindel
    > De eigenschap `border-radius` is een makkelijke manier om alles er cooler uit te laten zien! Als een extra uitdaging voeg een nieuwe regel toe aan je stylesheet voor plaatjes. Hiervoor gebruik je de `img` selector. Voeg hieraan eens een `border-radius` regel toe.
 
 6. Onze stylesheet en pagina zien er nu zo uit. En die van jou?  
-   ![](/assets/navbar.png)
+   ![](../assets/navbar.png)
 
   
 

@@ -16,7 +16,7 @@
    > 'nav' staat voor navigatie. De navigatie sectie is een verzameling tools waarmee je gemakkelijk naar de verschillende delen van je site gaat.
 
 4. Ga nu naar je lijst me links en selecteer de tekst die begint met `</ul>` en eindigt met `</ul>`. Vergeet de driehoekige haakjes niet!  
-   ![](/assets/select_links.png)
+   ![](../assets/select_links.png)
 
 5. In plaats van de tekst de **kopiëren**, ga je hem deze keer **uitknippen**. Dit doe je door de toetsen `Ctrl` en `X` tegelijk in te drukken. Schrik niet, de code verdwijnt nu.
 

@@ -1,7 +1,7 @@
 Je website staat nu online. Misschien wil je uiteindelijk je website wel downloaden, zodat je ook de bestanden thuis op je computer hebt staan.
 
 1. Ga naar je dashboard. Onderaan staat daar de optie `Download entire site`. Klik hierop en kies een plaats waar je je bestanden wilt opslaan.  
-   ![](/assets/download_site.png)
+   ![](../assets/download_site.png)
 
 2. Je hebt nu een zip-bestand opgeslagen. Hierin staan alle bestanden van je site.
 

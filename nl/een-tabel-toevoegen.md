@@ -23,7 +23,7 @@
      <td>2016</td>
 </tr>
 ``` 
-![](/assets/tabel.png)
+![](../assets/tabel.png)
 
 5. Je kunt nu je eigen favoriete hits toevoegen! Een nieuwe rij voeg je toe door een nieuwe set `<tr> </tr>  tags te gebruiken. Tussen deze tags zet je je **data** tussen `<td> </td>` tags.
 
@@ -55,10 +55,10 @@ td {
 > Merk op dat er bij sommige selectors **komma's** worden gebruikt, zoals bijvoorbeeld bij `table, th, td`. Dit is een *lijst met selectors*: dit betekent dat *alle*  `<th>` elementen *en alle* `<td>` elementen. Het scheelt een boel typen als je dezelfde regels kunt gebruiken voor meerdere selectors.
 
 Onze tabel ziet er nu zo uit:
-![](/assets/tabel2.png)
+![](../assets/tabel2.png)
 
 
-  
+    
 ![](../assets/badges/thumbs/01_live.png) 
 ![](../assets/badges/thumbs/06_style.png)
 ![](../assets/badges/thumbs/04_li.png) 
@@ -66,7 +66,6 @@ Onze tabel ziet er nu zo uit:
 ![](../assets/badges/thumbs/05_pages.png)
 ![](../assets/badges/thumbs/02_.png)
 ![](../assets/badges/thumbs/07_menu.png)
-
 
 
 
