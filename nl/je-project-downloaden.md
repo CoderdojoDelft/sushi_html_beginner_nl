@@ -15,5 +15,13 @@ Je website staat nu online. Misschien wil je uiteindelijk je website wel downloa
 
 
 
-![](blob:https://www.gitbook.com/7fba1a8b-6643-4498-a29d-97a911938046)![](blob:https://www.gitbook.com/ba0c5f39-c254-4ffa-9582-6e53374b5c23)![](blob:https://www.gitbook.com/24c16d20-2ec2-4712-8836-aaba321ff050)![](blob:https://www.gitbook.com/e119b2cb-5b2e-444b-8091-237f198b5717)![](blob:https://www.gitbook.com/84610e1e-f61e-4cb8-8a29-2721c1c4f467)![](blob:https://www.gitbook.com/7e111088-ceb6-43cb-bf73-871ef89029cb)![](blob:https://www.gitbook.com/d85a6b65-a208-4a71-8ff2-c1794e4f401b)![](/assets/badges/thumbs/08_10_tags.png)
+  
+![](../assets/badges/thumbs/01_live.png) 
+![](../assets/badges/thumbs/06_style.png)
+![](../assets/badges/thumbs/04_li.png) 
+![](../assets/badges/thumbs/03_img.png) 
+![](../assets/badges/thumbs/05_pages.png)
+![](../assets/badges/thumbs/02_.png)
+![](../assets/badges/thumbs/07_menu.png)
+![](../assets/badges/thumbs/08_10_tags.png)
 

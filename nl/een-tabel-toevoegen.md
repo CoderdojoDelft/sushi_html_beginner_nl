@@ -58,6 +58,15 @@ Onze tabel ziet er nu zo uit:
 ![](/assets/tabel2.png)
 
 
+  
+![](../assets/badges/thumbs/01_live.png) 
+![](../assets/badges/thumbs/06_style.png)
+![](../assets/badges/thumbs/04_li.png) 
+![](../assets/badges/thumbs/03_img.png) 
+![](../assets/badges/thumbs/05_pages.png)
+![](../assets/badges/thumbs/02_.png)
+![](../assets/badges/thumbs/07_menu.png)
+
 
 
 

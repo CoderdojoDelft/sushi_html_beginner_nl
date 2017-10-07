@@ -39,7 +39,10 @@
 
    > Belangrijk: de attribuutwaarden zoals de bestandsnaam en de beschrijving moeten tussen aanhalingstekens staan.
 
-![](/assets/badges/thumbs/01_live.png)![](blob:https://www.gitbook.com/ba0c5f39-c254-4ffa-9582-6e53374b5c23)![](blob:https://www.gitbook.com/24c16d20-2ec2-4712-8836-aaba321ff050) ![](/assets/badges/thumbs/03_img.png) 
+![](../assets/badges/thumbs/01_live.png) 
+![](../assets/badges/thumbs/06_style.png)
+![](../assets/badges/thumbs/04_li.png) 
+![](../assets/badges/thumbs/03_img.png) 
 
 
 
